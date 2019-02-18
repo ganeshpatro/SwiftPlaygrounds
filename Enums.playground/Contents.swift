@@ -1,5 +1,6 @@
 import Foundation
 
+//Source - https://www.latenightswift.com/2019/02/04/unknown-enum-cases/
 /*
  * Unnkown case in an enum. Using the power of CaseIterable Protocol of enum, We can model other raw values of enum to an unknown case.
  */
